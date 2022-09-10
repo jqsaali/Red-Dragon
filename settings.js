@@ -49,14 +49,14 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+923228182188']
 global.ownertag = '+923228182188' //your tag number
-global.botname = '𝗝𝗨𝗡𝗘𝗗-𝗔𝗟𝗬- 𝘉𝘖𝘛' //ur bot name
+global.botname = '𝙅𝙐𝙉𝙀𝘿-𝘼𝙇𝙔-𝘽𝙊𝙏' //ur bot name
 global.packname = "☬𝗝𝗨𝗡𝗘𝗗༒︎𝗔𝗟𝗬" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.author = "𝙅𝙐𝙉𝙀𝘿╺ 𝘼𝙇𝙔" // sticker author
+global.dragonemoji = '🎵' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+923180233284'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
